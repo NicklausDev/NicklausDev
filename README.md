@@ -124,5 +124,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nicklausdev&" alt="nicklausdev" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nicklausdev&show_icons=true&locale=en" alt="nicklausdev" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nicklausdev&show_icons=true&locale=en" alt="nicklausdev" /></p>
 
