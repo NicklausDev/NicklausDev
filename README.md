@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on
   
-| Syntax | Description |
+| Project | Description |
 | ----------- | ----------- |
 | **Klaustoons** | A webcomic platform that seeks to undo the marginalisation of art narratives in Sub-Saharan Africa. |
 | **InDeco** | An application to guide quick, personal, and user-relative financial interior-deco decisions. |
