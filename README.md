@@ -1,4 +1,4 @@
-![Header](https://github.com/NicklausDev/NicklausDev/blob/main/github-header-image.png))
+![Header](https://github.com/NicklausDev/NicklausDev/blob/main/github-header-image.png)
 
 <h1 align="center">Hello Stranger 👋, Nicklaus Here</h1>
 
